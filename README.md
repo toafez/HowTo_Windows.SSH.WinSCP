@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftoafez%2FHowTo_Windows.SSH.WinSCP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # HowTo: SSH-Key mit WinSCP für Windows
 Die folgende Beschreibung baut auf meiner Anleitung [HowTo: SSH-Key mit PuTTY und PuTTYgen](https://github.com/toafez/HowTo_Windows.SSH.PuTTY.PuTTYgen) auf, da hier bereits eine passwortlose SSH-Verbindung zu einem Remote-Server aufgebaut und der dort beschriebene private Schlüssel mit PuTTYgen erzeugt wurde.
 
