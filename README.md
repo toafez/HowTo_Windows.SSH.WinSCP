@@ -39,5 +39,7 @@ Das Programm WinSCP kann als Windows-Installer von der [WinSCP Download-Seite](h
 
 11. Dein gespeichertes Verbindungsziel kannst du ab sofort auf der linken Seite auswählen, um eine Verbindung zu deinem Remote Server herzustellen. Klicke dazu auf die Schaltfläche **Verbinden**.
 
+    ![07_WinSCP_Configuration](/images/07_WinSCP_Configuration.png)
+
 
 
